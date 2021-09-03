@@ -1,3 +1,10 @@
+#!/bin/bash
+##################################################
+#
+#   Author  : Viki ( @ ) Vignesh Natarajan
+#   Contact : vikiworks.io
+#
+##################################################
 
 ########## COMMON_CODE_BEGIN()   ########
 CMD=""
