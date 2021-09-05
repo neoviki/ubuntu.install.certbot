@@ -25,7 +25,7 @@ os_support_check(){
     fi
 
     #Check Ubuntu 16.04 Support    
-    cat /etc/lsb-release | grep 18.04 2> /dev/null 1> /dev/null
+    cat /etc/lsb-release | grep 16.04 2> /dev/null 1> /dev/null
     if [ $? -eq 0 ]; then
         OS_SUPPORTED=1
     fi
